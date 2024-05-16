@@ -37,3 +37,112 @@
 
 </p>
 <br> 
+
+
+## Languages and Tools 🛠
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+<br>
+
+## Projects 🚀
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Flipkart Clone</h3>
+        <br />
+        <a target="_blank" href="http://flipkart3.netlify.app">
+            <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/32f0c698-bb24-4418-b6b9-d1493a12ca75" width="100%" alt="Flipkart Clone"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/deepesh16b/flipkart-clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://flipkart3.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Redux, Material UI, Axios, Node, MongoDB, etc.</strong> - A clone of the Flipkart website built with React, Redux, Node and MongoDB.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Netflix Clone</h3>
+        <br />
+      <a target="_blank" href="https://netflix-29a21.web.app/">
+            <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/c75aeb64-cf87-4e9b-a22a-8f3a7d88f011" width="100%"  alt="Netflix Clone"/>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/deepesh16b/Netflix-Clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://netflix-29a21.web.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Firebase, React, Redux, FireStore, Axios, Tmdb API, YouTube Data API etc.</strong> - A clone of the Netflix website built with React, Redux, and MongoDB.</p>
+    </td>
+  </tr>
+  
+  <tr>
+     <td width="50%" valign="top">
+  <h3 align="center">Medimate: Medication Reminder</h3>
+  <br />
+    <a target="_blank" href="https://medimate-rho.vercel.app/">
+      <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/e4b6b383-eec5-42a7-b24a-3ee8de00d193" width="100%" alt="medimate"/>
+    </a>
+  <br />
+    <p align="center">
+      <br>
+      <a href="https://github.com/deepesh16b/medimate-next.js" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+      <a href="https://medimate-rho.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+  </p>
+    <p><strong>Used NextJs, React, Html, CSS, Javascript, Tailwind CSS etc.</strong> - Medimate: Medication Reminder Website showcasing my projects and skills.</p>
+</td>
+    <td width="50%" valign="top">
+      <h3 align="center">Blog Website</h3>
+      <br />
+        <a target="_blank" href="https://blogwebapp-tslk.onrender.com/">
+          <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/b636fbb6-5df1-4481-9d32-c8176eb6516d" width="100%" alt="Blog Website"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/deepesh16b/Blog-WebApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://blogwebapp-tslk.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node, Express, Bootstrap, MongoDB, Html, CSS etc.</strong> - A blog website where users can create and manage their own blogs.</p>
+</td>
+ 
+
+  </tr>
+  
+</table>
+
+
