@@ -25,10 +25,10 @@
 ## Connect with me⚡
 
 <p align="left" style="margin: 0 5px;">
-  <a href="[https://linkedin.com/in/deepesh16b]">
+  <a href="https://linkedin.com/in/deepesh16b">
     <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/da3b8064-038d-498b-a79e-b61ae4de6092" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="[https://instagram.com/deepesh16b]">
+  <a href="https://instagram.com/deepesh16b">
     <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/bcbadbb6-12c3-40e4-bfe7-21b085b288d1" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="mailto:deepeshbhardwaj58@gmail.com">
