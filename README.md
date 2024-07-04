@@ -73,7 +73,7 @@
   <br />
     <p align="center">
       <br>
-      <a href="https://github.com/deepesh16b/medimate-next.js" target="_blank">
+      <a href="https://github.com/bellacaio16/medimate-next.js" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
       </a>
       <a href="https://medimate-rho.vercel.app/" target="_blank">
@@ -107,16 +107,16 @@
     <td width="50%" valign="top">
       <h3 align="center">Flipkart Clone</h3>
         <br />
-        <a target="_blank" href="http://flipkart3.netlify.app">
+        <a target="_blank" href="https://ecommerce16.netlify.app/">
             <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/32f0c698-bb24-4418-b6b9-d1493a12ca75" width="100%" alt="Flipkart Clone"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/deepesh16b/flipkart-clone" target="_blank">
+  <a href="https://github.com/bellacaio16/flipkart-clone" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://flipkart3.netlify.app" target="_blank">
+  <a href="https://ecommerce16.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -130,7 +130,7 @@
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/deepesh16b/Netflix-Clone" target="_blank">
+  <a href="https://github.com/bellacaio16/Netflix-Clone" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://netflix-29a21.web.app/" target="_blank">
