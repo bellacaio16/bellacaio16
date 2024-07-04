@@ -63,7 +63,46 @@
 ## Projects 🚀
 
 <table bordercolor="#66b2b2">
-  
+   <tr>
+     <td width="50%" valign="top">
+  <h3 align="center">Medimate: Medication Reminder</h3>
+  <br />
+    <a target="_blank" href="https://medimate-rho.vercel.app/">
+      <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/e4b6b383-eec5-42a7-b24a-3ee8de00d193" width="100%" alt="medimate"/>
+    </a>
+  <br />
+    <p align="center">
+      <br>
+      <a href="https://github.com/deepesh16b/medimate-next.js" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+      <a href="https://medimate-rho.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+  </p>
+    <p><strong>Used NextJs, React, Html, CSS, Javascript, Tailwind CSS etc.</strong> - Medimate: Medication Reminder Website showcasing my projects and skills.</p>
+</td>
+    <td width="50%" valign="top">
+      <h3 align="center">LibraryHub: Online eBook Platform</h3>
+      <br />
+        <a target="_blank" href="https://libraryhub16.netlify.app/">
+          <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/763c7925-9c64-4d17-ae00-a3439d198848" width="100%" alt="Blog Website"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/bellacaio16/LibraryHub" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://libraryhub16.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Redux, Material UI, Axios, Node, MongoDB, etc.</strong> -An online platform where readers can browse, purchase, and download over 100+ books</p>
+</td>
+ 
+
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Flipkart Clone</h3>
@@ -102,46 +141,7 @@
     </td>
   </tr>
   
-  <tr>
-     <td width="50%" valign="top">
-  <h3 align="center">Medimate: Medication Reminder</h3>
-  <br />
-    <a target="_blank" href="https://medimate-rho.vercel.app/">
-      <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/e4b6b383-eec5-42a7-b24a-3ee8de00d193" width="100%" alt="medimate"/>
-    </a>
-  <br />
-    <p align="center">
-      <br>
-      <a href="https://github.com/deepesh16b/medimate-next.js" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-      </a>
-      <a href="https://medimate-rho.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-      </a>
-  </p>
-    <p><strong>Used NextJs, React, Html, CSS, Javascript, Tailwind CSS etc.</strong> - Medimate: Medication Reminder Website showcasing my projects and skills.</p>
-</td>
-    <td width="50%" valign="top">
-      <h3 align="center">LibraryHub: Online eBook Platform</h3>
-      <br />
-        <a target="_blank" href="https://libraryhub16.netlify.app/">
-          <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/ea1292da-2ddd-4fdf-b7c0-c36badd7f6e7" width="100%" alt="Blog Website"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/bellacaio16/LibraryHub" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://libraryhub16.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Redux, Material UI, Axios, Node, MongoDB, etc.</strong> -An online platform where readers can browse, purchase, and download over 100+ books</p>
-</td>
  
-
-  </tr>
   
 </table>
 
