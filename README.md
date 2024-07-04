@@ -122,22 +122,22 @@
     <p><strong>Used NextJs, React, Html, CSS, Javascript, Tailwind CSS etc.</strong> - Medimate: Medication Reminder Website showcasing my projects and skills.</p>
 </td>
     <td width="50%" valign="top">
-      <h3 align="center">Blog Website</h3>
+      <h3 align="center">LibraryHub: Online eBook Platform</h3>
       <br />
-        <a target="_blank" href="https://blogwebapp-tslk.onrender.com/">
-          <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/b636fbb6-5df1-4481-9d32-c8176eb6516d" width="100%" alt="Blog Website"/>
+        <a target="_blank" href="https://libraryhub16.netlify.app/">
+          <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/ea1292da-2ddd-4fdf-b7c0-c36badd7f6e7" width="100%" alt="Blog Website"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/deepesh16b/Blog-WebApp" target="_blank">
+  <a href="https://github.com/bellacaio16/LibraryHub" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://blogwebapp-tslk.onrender.com/" target="_blank">
+  <a href="https://libraryhub16.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node, Express, Bootstrap, MongoDB, Html, CSS etc.</strong> - A blog website where users can create and manage their own blogs.</p>
+        <p><strong>React, Redux, Material UI, Axios, Node, MongoDB, etc.</strong> -An online platform where readers can browse, purchase, and download over 100+ books</p>
 </td>
  
 
