@@ -67,7 +67,7 @@
      <td width="50%" valign="top">
   <h3 align="center">Medimate: Medication Reminder</h3>
   <br />
-    <a target="_blank" href="https://medimate-rho.vercel.app/">
+    <a target="_blank" href="https://medimate16.vercel.app/">
       <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/e4b6b383-eec5-42a7-b24a-3ee8de00d193" width="100%" alt="medimate"/>
     </a>
   <br />
@@ -76,7 +76,7 @@
       <a href="https://github.com/bellacaio16/medimate-next.js" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
       </a>
-      <a href="https://medimate-rho.vercel.app/" target="_blank">
+      <a href="https://medimate16.vercel.app/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
   </p>
